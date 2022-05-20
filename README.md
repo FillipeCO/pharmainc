@@ -1,18 +1,26 @@
-# Coodesh Front-End Challenge 🏅 2021
+# Coodesh Front-end challenge
 
-Desafio de frontend da Coodesh: desenvolver um frontend que busca dados de clientes de uma empresa em uma api e os renderiza.
+```
+CASE:
+A empresa Pharma Inc, está trabalhando em um projeto em colaboração com sua base de clientes para facilitar a gestão e visualização da informação dos seus pacientes de maneira simples e objetiva em um Dashboard onde podem listar, filtrar e expandir os dados disponíveis.
+O seu objetivo nesse projeto, é trabalhar no desenvolvimento do Front end que consumirá a API da empresa Pharma Inc seguindo os requisitos propostos neste desafio.
 
-## Tecnologias usadas
+Disponível em: https://lab.coodesh.com/public-challenges/front-end-challenge-2021
+```
+
+## Technologies:
+
 1. Next.js
-2. Sass
-3. Tailwind CSS
-4. Material UI
+2. Javascript
+3. Sass
+4. Tailwind CSS
+5. Material UI
 
-## Comandos para rodar o projeto
-1. git clone https://github.com/felipe-carvalho12/coodesh-frontend-challenge-2021
-2. cd coodesh-frontend-challenge-2021
-3. npm install
-4. npm run dev
+## How to run it:
 
-## Acessar projeto deployado
-O projeto está deployado na Vercel e pode ser acessado em:
+1. npm install
+2. npm run dev
+
+## Demo:
+
+The project can be acessed here: 
