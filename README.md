@@ -15,4 +15,4 @@ Desafio de frontend da Coodesh: desenvolver um frontend que busca dados de clien
 4. npm run dev
 
 ## Acessar projeto deployado
-O projeto está deployado na Vercel e pode ser acessado em: https://pharma-inc.vercel.app/
+O projeto está deployado na Vercel e pode ser acessado em:
